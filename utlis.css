@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    line-height: 1.6;
+    background-image: url('https://a-uok.s3.ir-thr-at1.arvanstorage.com/background.png');
+    /* background-position: center; */
+    background-size: cover;
+    height: auto;
+    overflow-x: hidden;
+    /* background-attachment: fixed; */
+}
